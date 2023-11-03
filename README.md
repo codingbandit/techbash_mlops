@@ -34,7 +34,7 @@ Scenario Details: [Understand the business problem](https://learn.microsoft.com/
 
 Challenge Details: [Convert a notebook to production code](https://microsoftlearning.github.io/mslearn-mlops/documentation/00-script.html)
 
-Solution walkthrough: [SPOILERS](docs/challenge_0_solution.md)
+Solution walkthrough: [SPOILERS](docs/challenge_0_walkthrough.md)
 
 ### Challenge 1: Create an Azure Machine Learning job
 
