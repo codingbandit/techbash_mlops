@@ -11,7 +11,7 @@ This repository contains the code and instructions for the Techbash MLOps worksh
 3. [Git](https://git-scm.com/download)
 4. [GitHub Account](https://github.com)
 5. Administrator rights to your computer (the ability to install software)
-6. [Python 3.12.0](https://www.python.org/downloads/)
+6. [Python 3.11.6](https://www.python.org/downloads/)
 7. [Visual Studio Code](https://code.visualstudio.com/Download):
    1. [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
    2. [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
